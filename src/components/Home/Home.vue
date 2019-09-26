@@ -35,7 +35,7 @@ import { API_KEY } from "../../maps";
 import VueGoogleAutocomplete from "vue-google-autocomplete";
 
 export default {
-  name: "HelloWorld",
+  name: "Home",
   data() {
     return {
       currentWeatherComponent: "loader-tag",
